@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MiddleWare</name>
+    </assembly>
+    <members>
+        <member name="M:MiddleWare.Controllers.ApplicationController.CreateApplication(Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Create a new Application resource.
+            </summary>
+            <remarks>
+            Creates a specific real-world application resource. If 'resource-name' is not provided, 
+            the middleware will auto-generate a unique identifier.
+            </remarks>
+            <param name="body">JSON object containing 'res-type' (must be 'application') and 'resource-name'.</param>
+            <response code="201">Created: Returns the full set of properties for the created application.</response>
+            <response code="400">Bad Request: Invalid resource type or malformed body.</response>
+            <response code="500">Internal Server Error: Database operation failed.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ApplicationController.DiscoverRoot">
+            <summary>
+            Global Resource Discovery.
+            </summary>
+            <remarks>
+            Lists paths to all available resources across the middleware. 
+            Requires the 'somiod-discovery' HTTP header.
+            </remarks>
+            <response code="200">OK: Returns a JSON list of paths to resources matching the discovery type.</response>
+            <response code="400">Bad Request: Missing or invalid 'somiod-discovery' header value.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ApplicationController.ProcessRootDiscovery">
+            <summary>
+            Get application properties or perform discovery within this application.
+            </summary>
+            <param name="appName">The unique name of the application.</param>
+            <response code="200">Returns application properties or a list of child resource paths.</response>
+            <response code="404">Application not found.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ApplicationController.GetApplication(System.String)">
+            <summary>
+            Retrieve Application properties or perform Discovery within an application.
+            </summary>
+            <param name="appName">The unique resource-name of the application.</param>
+            <remarks>
+            If 'somiod-discovery' header is present, returns child resource paths. 
+            Otherwise, returns the application's metadata.
+            </remarks>
+            <response code="200">OK: Returns the application properties or a list of child resource paths.</response>
+            <response code="404">Not Found: The specified application does not exist.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ApplicationController.UpdateApplication(System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Update an Application's name.
+            </summary>
+            <param name="appName">The current unique resource-name of the application.</param>
+            <param name="body">JSON object containing the new 'resource-name'.</param>
+            <response code="200">OK: Returns the updated application properties.</response>
+            <response code="400">Bad Request: Missing new resource-name.</response>
+            <response code="404">Not Found: Application not found or name conflict.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ApplicationController.DeleteApplication(System.String)">
+            <summary>
+            Delete an Application resource.
+            </summary>
+            <remarks>Removes the application and all associated child resources (containers, instances, subs).</remarks>
+            <param name="appName">The unique resource-name of the target application.</param>
+            <response code="204">No Content: Resource successfully deleted.</response>
+            <response code="404">Not Found: Application not found.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ApplicationController.CreateContainer(System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Create a new Container resource under a specific Application.
+            </summary>
+            <param name="appName">The unique name of the parent application.</param>
+            <param name="body">JSON object containing 'res-type' (must be 'container') and 'resource-name'.</param>
+            <response code="201">Created: Returns the properties of the newly created container.</response>
+            <response code="400">Bad Request: Invalid resource type.</response>
+            <response code="404">Not Found: Parent application does not exist.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ContainerController.GetContainer(System.String,System.String)">
+            <summary>
+            Get container properties or discover its child resources (content-instances or subscriptions).
+            </summary>
+            <param name="appName">Parent application name.</param>
+            <param name="contName">Target container name.</param>
+            <response code="200">Returns container properties or a list of children paths.</response>
+            <response code="404">Container not found.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ContainerController.UpdateContainer(System.String,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Update a container's properties (e.g., rename it).
+            </summary>
+            <param name="appName">Parent application name.</param>
+            <param name="contName">Current container name.</param>
+            <param name="body">JSON object containing the new 'resource-name'.</param>
+            <response code="200">OK: Returns the updated container object.</response>
+            <response code="400">Bad Request: Missing new resource-name.</response>
+            <response code="404">Not Found: Container or Application not found.</response>
+            <response code="409">Conflict: New name already in use.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ContainerController.DeleteContainer(System.String,System.String)">
+            <summary>
+            Delete a container and all its child resources (Content-Instances and Subscriptions).
+            </summary>
+            <param name="appName">Parent application name.</param>
+            <param name="contName">Container name to delete.</param>
+            <response code="204">No Content: Resource successfully deleted.</response>
+            <response code="404">Not Found: Container does not exist.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ContainerController.CreateChild(System.String,System.String,Newtonsoft.Json.Linq.JObject)">
+            <summary>
+            Create a child resource (Content-Instance or Subscription) inside a container.
+            </summary>
+            <remarks>Supports 'content-instance' and 'subscription' resource types.</remarks>
+            <param name="appName">Parent application name.</param>
+            <param name="contName">Target container name.</param>
+            <param name="body">JSON object with resource properties.</param>
+            <response code="201">Resource created successfully and notifications triggered.</response>
+            <response code="400">Invalid data or unsupported content-type.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ContentInstanceController.GetContentInstance(System.String,System.String,System.String)">
+            <summary>
+            Retrieve a specific Content-Instance or perform discovery on it.
+            </summary>
+            <remarks>
+            If the 'somiod-discovery' header is present (value: 'content-instance'), it returns the path to this instance.
+            Otherwise, it returns the full details of the content instance.
+            </remarks>
+            <param name="appName">The name of the parent application.</param>
+            <param name="contName">The name of the parent container.</param>
+            <param name="ciName">The unique name of the content instance.</param>
+            <response code="200">OK: Returns the Content-Instance object or a discovery list.</response>
+            <response code="404">Not Found: The specified resource does not exist.</response>
+            <response code="400">Bad Request: Invalid discovery type (Content-Instance is a leaf node).</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.ContentInstanceController.DeleteContentInstance(System.String,System.String,System.String)">
+            <summary>
+            Delete a Content-Instance and trigger deletion notifications (Event 2).
+            </summary>
+            <remarks>
+            This operation removes the data record from the database and sends an XML notification 
+            (event type DELETE) to all subscribed endpoints (MQTT and HTTP).
+            </remarks>
+            <param name="appName">Application name.</param>
+            <param name="contName">Container name.</param>
+            <param name="ciName">Content-Instance name to delete.</param>
+            <response code="200">OK: Resource deleted successfully and notifications sent.</response>
+            <response code="404">Not Found: Resource does not exist.</response>
+            <response code="500">Internal Server Error: Database or Notification failure.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.SubscriptionController.GetSubscription(System.String,System.String,System.String)">
+            <summary>
+            Retrieve details of a specific subscription.
+            </summary>
+            <remarks>
+            Subscriptions are always addressed using the virtual node 'subs' inside a container.
+            </remarks>
+            <param name="appName">The name of the parent application.</param>
+            <param name="contName">The name of the parent container.</param>
+            <param name="subName">The unique name of the subscription.</param>
+            <response code="200">OK: Returns the subscription properties.</response>
+            <response code="404">Not Found: The subscription does not exist.</response>
+        </member>
+        <member name="M:MiddleWare.Controllers.SubscriptionController.DeleteSubscription(System.String,System.String,System.String)">
+            <summary>
+            Delete a specific subscription.
+            </summary>
+            <remarks>
+            Subscriptions are addressed using the virtual node 'subs'. 
+            This operation stops further notifications to the registered endpoint.
+            </remarks>
+            <param name="appName">Application name.</param>
+            <param name="contName">Container name.</param>
+            <param name="subName">The unique name of the subscription to remove.</param>
+            <response code="204">No Content: Subscription deleted successfully.</response>
+            <response code="404">Not Found: Subscription does not exist.</response>
+        </member>
+        <member name="P:MiddleWare.Models.Application.Name">
+            <summary>Unique name of the application.</summary>
+        </member>
+        <member name="P:MiddleWare.Models.Application.CreationDate">
+            <summary>Timestamp of resource creation (ISO format).</summary>
+        </member>
+        <member name="P:MiddleWare.Models.Subscription.Name">
+            <summary>Unique name for the subscription.</summary>
+        </member>
+        <member name="P:MiddleWare.Models.Subscription.Endpoint">
+            <summary>Target endpoint (MQTT broker address or HTTP URL).</summary>
+        </member>
+        <member name="P:MiddleWare.Models.Subscription.Event">
+            <summary>Event type: 1 for Creation, 2 for Deletion.</summary>
+        </member>
+    </members>
+</doc>

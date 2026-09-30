@@ -1,0 +1,455 @@
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\MiddleWare.dll.config
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\MiddleWare.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\MiddleWare.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\MiddleWare.pdb
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\csc.exe
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\csc.exe.config
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\csc.rsp
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\csi.exe
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\csi.exe.config
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\csi.rsp
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.AppContext.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Console.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Net.Http.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.ValueTuple.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\vbc.exe
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\vbc.exe.config
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\vbc.rsp
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Newtonsoft.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Swashbuckle.Core.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Web.Http.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\WebActivatorEx.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Newtonsoft.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Web.Http.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.Up2Date
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\obj\Debug\MiddleWare.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\obj\Debug\MiddleWare.pdb
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\M2Mqtt.Net.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\M2Mqtt.Net.pdb
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Buffers.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.IO.Pipelines.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Memory.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Text.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Buffers.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.IO.Pipelines.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Memory.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Text.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\MiddleWare.dll.config
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\MiddleWare.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\MiddleWare.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\MiddleWare.pdb
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\csc.exe
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\csc.exe.config
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\csc.rsp
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\csi.exe
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\csi.exe.config
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\csi.rsp
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.AppContext.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Console.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Net.Http.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Net.Sockets.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.ValueTuple.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\vbc.exe
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\vbc.exe.config
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\vbc.rsp
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\M2Mqtt.Net.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Newtonsoft.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Swashbuckle.Core.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Buffers.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.IO.Pipelines.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Memory.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Text.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Web.Http.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\WebActivatorEx.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\M2Mqtt.Net.pdb
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Buffers.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.IO.Pipelines.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Memory.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Text.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Newtonsoft.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Web.Http.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.Up2Date
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\obj\Debug\MiddleWare.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\MiddleWare\obj\Debug\MiddleWare.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\MiddleWare.dll.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\MiddleWare.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\MiddleWare.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\MiddleWare.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\csc.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\csc.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\csc.rsp
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\csi.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\csi.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\csi.rsp
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.AppContext.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Collections.Immutable.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Console.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Net.Http.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Net.Sockets.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.ValueTuple.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\vbc.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\vbc.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\vbc.rsp
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\M2Mqtt.Net.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Microsoft.Web.Infrastructure.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Newtonsoft.Json.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Swashbuckle.Core.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Buffers.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.IO.Pipelines.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Memory.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Text.Json.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Web.Http.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\WebActivatorEx.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\M2Mqtt.Net.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Buffers.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.IO.Pipelines.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Memory.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Text.Json.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Newtonsoft.Json.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Web.Http.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.AssemblyReference.cache
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.CoreCompileInputs.cache
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.Up2Date
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\obj\Debug\MiddleWare.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\MiddleWare\obj\Debug\MiddleWare.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\MiddleWare.dll.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\MiddleWare.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\MiddleWare.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\MiddleWare.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\csc.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\csc.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\csc.rsp
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\csi.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\csi.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\csi.rsp
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.AppContext.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Collections.Immutable.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Console.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Net.Http.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Net.Sockets.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.ValueTuple.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\vbc.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\vbc.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\vbc.rsp
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\M2Mqtt.Net.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Microsoft.Web.Infrastructure.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Newtonsoft.Json.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Swashbuckle.Core.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Buffers.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.IO.Pipelines.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Memory.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Text.Json.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Web.Http.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\WebActivatorEx.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\M2Mqtt.Net.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Buffers.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.IO.Pipelines.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Memory.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Text.Json.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Newtonsoft.Json.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Web.Http.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.AssemblyReference.cache
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.CoreCompileInputs.cache
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.Up2Date
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\obj\Debug\MiddleWare.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_PosSwagger\SOMIOD\MiddleWare\obj\Debug\MiddleWare.pdb
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\MiddleWare.dll.config
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\MiddleWare.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\MiddleWare.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\MiddleWare.pdb
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\csc.exe
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\csc.exe.config
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\csc.rsp
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\csi.exe
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\csi.exe.config
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\csi.rsp
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.AppContext.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Collections.Immutable.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Console.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Globalization.Calendars.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Net.Http.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Net.Sockets.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Reflection.Metadata.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.ValueTuple.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\vbc.exe
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\vbc.exe.config
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\vbc.rsp
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\roslyn\VBCSCompiler.exe.config
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\M2Mqtt.Net.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Microsoft.Web.Infrastructure.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Newtonsoft.Json.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Swashbuckle.Core.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Buffers.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.IO.Pipelines.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Memory.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Text.Json.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Web.Http.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\WebActivatorEx.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\M2Mqtt.Net.pdb
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Buffers.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.IO.Pipelines.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Memory.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Numerics.Vectors.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Text.Encodings.Web.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Text.Json.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Threading.Tasks.Extensions.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Newtonsoft.Json.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Net.Http.Formatting.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Web.Http.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\System.Web.Http.WebHost.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.AssemblyReference.cache
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.CoreCompileInputs.cache
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\obj\Debug\MiddleWare.csproj.Up2Date
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\obj\Debug\MiddleWare.dll
+C:\Escola\3º ano\1º semestre\IS\ProjectIS_25-26\Project\SOMIOD\MiddleWare\obj\Debug\MiddleWare.pdb

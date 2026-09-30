@@ -1,0 +1,108 @@
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.exe.config
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.exe
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.pdb
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.Properties.Resources.resources
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.GenerateResource.cache
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.exe
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.pdb
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\M2Mqtt.Net.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.exe.config
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.FormControlador.resources
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\obj\Debug\Controla.6A44F4D9.Up2Date
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Buffers.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Memory.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Buffers.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Memory.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\RestSharp.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\RestSharp.xml
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS\SOMIOD\SOMIOD\ControladorPrisao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.exe.config
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.exe
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.pdb
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\M2Mqtt.Net.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\RestSharp.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Buffers.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Memory.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Json.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\RestSharp.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Buffers.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Memory.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Json.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.exe.config
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.FormControlador.resources
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.Properties.Resources.resources
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.GenerateResource.cache
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\Controla.6A44F4D9.Up2Date
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.exe
+C:\Users\fabio\Desktop\ProjetoIS_modoMartim\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\ControladorPrisao.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\M2Mqtt.Net.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\Newtonsoft.Json.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\RestSharp.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Buffers.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.IO.Pipelines.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Memory.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Numerics.Vectors.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Encodings.Web.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Json.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\M2Mqtt.Net.pdb
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\Newtonsoft.Json.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\RestSharp.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Buffers.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.IO.Pipelines.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Memory.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Numerics.Vectors.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Encodings.Web.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Text.Json.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.AssemblyReference.cache
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.exe.config
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.FormControlador.resources
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.Properties.Resources.resources
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.GenerateResource.cache
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.csproj.CoreCompileInputs.cache
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\Controla.6A44F4D9.Up2Date
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.exe
+C:\Escola\3º ano\1º semestre\IS\Projeto_AppFuncional_PreXML\SOMIOD\ControladorPrisao\obj\Debug\ControladorPrisao.pdb
